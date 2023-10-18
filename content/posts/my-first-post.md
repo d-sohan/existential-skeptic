@@ -3,9 +3,9 @@ title = 'The Efilist'
 date = 2023-10-18T16:15:44+05:30
 draft = false
 +++
-In online spaces, people generally think of _efilism_ as a death cult obcessed with extinction of all life. It is often conflated with _promortalism_, which is a related term and is itself prone to misunderstanding. I consider this unfortunate. Worse still, among such people are _antinatalists_ who are quick to disassociate themselves with efilists who they consider to be perhaps the right target of the "dangerous philosophy" label that society gives to antinatalism.
+In online spaces, people generally think of _efilism_ as a death cult obsessed with extinction of all life. It is often conflated with _promortalism_, which is a related term and is itself prone to misunderstanding. I consider this unfortunate. Worse still, among such people are _antinatalists_ who are quick to disassociate themselves with efilists who they consider to be perhaps the right target of the "dangerous philosophy" label that society gives to antinatalism.
 
-In my opinion, this attitude is misguided and even antithetical to the antinatalist cause. In this article, I'll attempt to provide a better way around these terms so that unnecessary confusion and disharmony can be avoided.
+In my opinion, this attitude is misguided and even antithetical to the antinatalist cause. In this article, I'll attempt to provide a better way around these terms so that unnecessary confusion and disharmony can be avoided. My motivation is primarily because I think the word _efilism_ is quite expressive and it can be used in more meaningful ways.
 
 The word _efil_ is literally life spelled backwards, signifying the negative stance that believers of this philosophy have towards life. I think a simpler definition which doesn't include actions needed on part of its believers, would do justice to the term. As such, I propose a surprisingly familiar definition (at least to existing efilists and antinatalists): 
 
