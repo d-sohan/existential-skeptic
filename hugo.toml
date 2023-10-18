@@ -1,0 +1,4 @@
+baseURL = 'https://d-sohan.github.io'
+languageCode = 'en-us'
+title = 'Existential Skeptic'
+theme = 'ananke'

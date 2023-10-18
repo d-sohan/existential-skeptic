@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Existential Skeptic</title>
+    <link>https://d-sohan.github.io/</link>
+    <description>Recent content on Existential Skeptic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Oct 2023 16:15:44 +0530</lastBuildDate><atom:link href="https://d-sohan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Efilist</title>
+      <link>https://d-sohan.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 18 Oct 2023 16:15:44 +0530</pubDate>
+      
+      <guid>https://d-sohan.github.io/posts/my-first-post/</guid>
+      <description>In online spaces, people generally think of efilism as a death cult obcessed with extinction of all life. It is often conflated with promortalism, which is a related term and is itself prone to misunderstanding. I consider this unfortunate. Worse still, among such people are antinatalists who are quick to disassociate themselves with efilists who they consider to be perhaps the right target of the &amp;ldquo;dangerous philosophy&amp;rdquo; label that society gives to antinatalism.</description>
+    </item>
+    
+  </channel>
+</rss>
